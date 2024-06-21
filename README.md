@@ -1,0 +1,2 @@
+# batteryApplication
+在局域网与广域网共享设备电池状态信息
