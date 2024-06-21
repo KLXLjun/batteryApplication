@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:padding="16px"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:gravity="left"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:id="@+id/textView"
+        android:ellipsize="marquee"
+        android:focusableInTouchMode="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true" />
+
+    <TextView
+        android:text=""
+        android:id="@+id/subtextView"
+        android:gravity="left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginTop="6dp" />
+</LinearLayout>

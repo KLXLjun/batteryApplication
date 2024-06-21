@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatteryApplication</string>
+    <string name="now_setting_value">Now setting value:</string>
+    <string name="setting_Incorrect_port">Incorrect port!</string>
+</resources>

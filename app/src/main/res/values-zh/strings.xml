@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">电池应用</string>
+    <string name="now_setting_value">当前设定:</string>
+    <string name="setting_Incorrect_port">端口不正确!</string>
+</resources>
